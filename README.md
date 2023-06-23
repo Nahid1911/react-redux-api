@@ -1,8 +1,6 @@
 # Getting Started with Create React App
 
-```
 Assignment [link](https://github.com/microverseinc/curriculum-react-redux/blob/main/bookstore/exercises/connect_redux_api.md)
-```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
